@@ -1,12 +1,12 @@
-####Music Trainer v0.0.1
+##Music Trainer v0.0.1
 
 100% JavaScript fretboard showing notes in a particular scale.
 
-##Current Instruments:
+####Current Instruments:
 * Ukulele
 * Guitar
 
-##Current Scalse:
+####Current Scales:
 * Major
 * Minor
 * Dominant 7th
@@ -18,9 +18,9 @@
 * 9th
 * 7b9
 
-##To Use:
-Clone or download the repo and drop `vizulizeScales.js` into any html page. Make sure there <div> with id="music-trainer"
+####To Use:
+Clone or download the repo and drop `vizulizeScales.js` into any html page. Make sure `<div id="music-trainer"></div>` exists.
 
-##TODO:
+####TODO:
 * Write form for user instruments
 * Style an intrument around the fretboard
